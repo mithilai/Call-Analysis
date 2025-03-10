@@ -1,0 +1,8 @@
+streamlit
+torch
+whisper
+langchain_groq
+langchain_core
+python-dotenv
+langchain_community
+ffmpeg-python

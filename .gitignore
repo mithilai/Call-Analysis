@@ -1,0 +1,7 @@
+.env
+__pycache__/
+temp_audio/
+.DS_Store
+.venv/
+node_modules/
+.streamlit/
