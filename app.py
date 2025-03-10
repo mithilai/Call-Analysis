@@ -26,7 +26,7 @@ if uploaded_file is not None:
     st.success("File uploaded successfully!")
     
     # Load Whisper model
-    model = whisper.load_model("small")
+    model = whisper.load_model("base")
     
     # Transcribe audio
     st.write("Transcribing...")
